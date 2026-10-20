@@ -13,7 +13,7 @@ I am studying Data Science and Data Visualization at the University of Macau. Th
 
 **Research question:** Did visitor arrivals and gaming revenue recover at the same pace relative to 2019?
 
-**Status:** Ongoing. The current Assignment 2 descriptive analysis is complete; further interpretation and feedback are pending.
+**Status:** Ongoing. The current Assignment 2 descriptive analysis is complete; further interpretation is planned.
 
 ![Annual recovery indices of Macao visitor arrivals and gaming revenue, 2019–2025](assets/01_annual_recovery.png)
 
@@ -31,17 +31,19 @@ Monthly analysis adds an important qualification: visitor arrivals exceeded thei
 
 ## How to read the recovery indices
 
-**Reading question:** Why do visitor arrivals and gaming revenue use the same index, and does the gap mean that each visitor spent less on gaming?
+**Classmate question:** Why do visitor arrivals and gaming revenue use the same index, and does the gap mean that each visitor spent less on gaming?
 
 Both series are divided by their own 2019 baseline and multiplied by 100. An index of **100** means the same level as the baseline; **80** means 20% below it. The annual chart uses 2019 annual totals, while the monthly chart uses the corresponding month in 2019. This makes relative recovery comparable despite the different original units.
 
 The gap does **not** measure individual spending. Arrivals count visits rather than unique people, and gaming revenue may include residents. These aggregate figures cannot establish why the indicators diverged.
 
-*Improvement record: added a reading guide to clarify the index baseline and prevent the recovery gap from being interpreted as individual visitor spending.*
+**Worked example:** If the visitor index is 100 and the gaming revenue index is 80, the recovery gap is **20 percentage points**. This does not mean that each visitor spent 20% less. Each index compares an aggregate measure with its own baseline.
+
+*Improvement record: a classmate asked how to compare the indices and whether the gap implied lower individual spending. Added a numerical example to make the distinction explicit.*
 
 ## Next steps
 
-Ask a real classmate to review the purpose, main finding and limitation, then document any further improvement based on their feedback. Explore inflation adjustment and holiday timing before extending the interpretation.
+Continue collecting feedback on the clarity of the purpose, findings and limitations. Explore inflation adjustment and holiday timing before extending the interpretation.
 
 ## About this portfolio
 
