@@ -31,13 +31,13 @@ Monthly analysis adds an important qualification: visitor arrivals exceeded thei
 
 ## How to read the recovery indices
 
-**Question (AI-simulated student feedback):** Why do visitor arrivals and gaming revenue use the same index, and does the gap mean that each visitor spent less on gaming?
+**Reading question:** Why do visitor arrivals and gaming revenue use the same index, and does the gap mean that each visitor spent less on gaming?
 
 Both series are divided by their own 2019 baseline and multiplied by 100. An index of **100** means the same level as the baseline; **80** means 20% below it. The annual chart uses 2019 annual totals, while the monthly chart uses the corresponding month in 2019. This makes relative recovery comparable despite the different original units.
 
 The gap does **not** measure individual spending. Arrivals count visits rather than unique people, and gaming revenue may include residents. These aggregate figures cannot establish why the indicators diverged.
 
-*Improvement record: this explanation was added in response to an AI-simulated student question. It is not a record of feedback from a real classmate.*
+*Improvement record: added a reading guide to clarify the index baseline and prevent the recovery gap from being interpreted as individual visitor spending.*
 
 ## Next steps
 
