@@ -29,9 +29,19 @@ Monthly analysis adds an important qualification: visitor arrivals exceeded thei
 
 [View the project, code, data sources and reproduction instructions on GitHub](https://github.com/Bewicksun/data-science-project)
 
+## How to read the recovery indices
+
+**Question (AI-simulated student feedback):** Why do visitor arrivals and gaming revenue use the same index, and does the gap mean that each visitor spent less on gaming?
+
+Both series are divided by their own 2019 baseline and multiplied by 100. An index of **100** means the same level as the baseline; **80** means 20% below it. The annual chart uses 2019 annual totals, while the monthly chart uses the corresponding month in 2019. This makes relative recovery comparable despite the different original units.
+
+The gap does **not** measure individual spending. Arrivals count visits rather than unique people, and gaming revenue may include residents. These aggregate figures cannot establish why the indicators diverged.
+
+*Improvement record: this explanation was added in response to an AI-simulated student question. It is not a record of feedback from a real classmate.*
+
 ## Next steps
 
-Obtain a classmate's feedback on the purpose, main finding and limitation; make and document an improvement based on that feedback. Explore inflation adjustment and holiday timing before extending the interpretation.
+Ask a real classmate to review the purpose, main finding and limitation, then document any further improvement based on their feedback. Explore inflation adjustment and holiday timing before extending the interpretation.
 
 ## About this portfolio
 
